@@ -1,0 +1,59 @@
+{
+  "stickers" : [
+    {
+      "filename" : "middle-finger.sticker"
+    },
+    {
+      "filename" : "gun.sticker"
+    },
+    {
+      "filename" : "you-tried.sticker"
+    },
+    {
+      "filename" : "this-is-fine.sticker"
+    },
+    {
+      "filename" : "sourcekit-crashed.sticker"
+    },
+    {
+      "filename" : "here.sticker"
+    },
+    {
+      "filename" : "ron-swanson-computer.sticker"
+    },
+    {
+      "filename" : "poo.sticker"
+    },
+    {
+      "filename" : "ok.sticker"
+    },
+    {
+      "filename" : "troll.sticker"
+    },
+    {
+      "filename" : "jackie-chan.sticker"
+    },
+    {
+      "filename" : "fix-issue.sticker"
+    },
+    {
+      "filename" : "no-idea.sticker"
+    },
+    {
+      "filename" : "wq.sticker"
+    },
+    {
+      "filename" : "beachball.sticker"
+    },
+    {
+      "filename" : "do-my-best.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "large"
+  }
+}
